@@ -1,4 +1,4 @@
-The Kaggle [Intro to Data Visualization course](), taught by instructor, Alexis Cook, provides an overview of the following topics:
+The Kaggle [Intro to Programming course](https://www.kaggle.com/learn/intro-to-programming), taught by instructor, Alexis Cook, provides an overview of the following topics:
 
 * [Arithmetic and Variables](https://github.com/zbraiterman/kaggle-course-notebooks/blob/main/intro-to-programming/exercise-arithmetic-and-variables.ipynb)
 * [Functions](https://github.com/zbraiterman/kaggle-course-notebooks/blob/main/intro-to-programming/exercise-functions.ipynb)
