@@ -6,4 +6,4 @@ The Kaggle Intro to [Data Visualization course](https://www.kaggle.com/learn/dat
 * [Scatter Plots](https://github.com/zbraiterman/kaggle-course-notebooks/blob/main/data-visualization/exercise-scatter-plots.ipynb)
 * [Distributions](https://github.com/zbraiterman/kaggle-course-notebooks/blob/main/data-visualization/exercise-distributions.ipynb)
 * [Choosing Plot Types and Custom Styles](https://github.com/zbraiterman/kaggle-course-notebooks/blob/main/data-visualization/exercise-choosing-plot-types-and-custom-styles.ipynb)
-* [Final Project]()
+* [Final Project](https://github.com/zbraiterman/kaggle-course-notebooks/blob/main/data-visualization/exercise-final-project.ipynb)
