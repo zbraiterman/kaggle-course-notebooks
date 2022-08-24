@@ -1,4 +1,4 @@
-The Kaggle Intro to [Data Visualization course](https://www.kaggle.com/learn/data-visualization), taught by instructor, Alexis Cook, provides an overview of the following topics:
+The Kaggle [Intro to Data Visualization course](https://www.kaggle.com/learn/data-visualization), taught by instructor, Alexis Cook, provides an overview of the following topics:
 
 * [Introduction](https://github.com/zbraiterman/kaggle-course-notebooks/blob/main/data-visualization/exercise-hello-seaborn.ipynb)
 * [Line Charts](https://github.com/zbraiterman/kaggle-course-notebooks/blob/main/data-visualization/exercise-line-charts.ipynb)
